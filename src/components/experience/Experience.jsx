@@ -130,7 +130,7 @@ function Experience() {
           </div>
         </div>
         <div className="experience__SofSkills">
-        <h3>Soft Skills</h3>
+        <h3>Other Skills</h3>
           <div className="experience__content">
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icons'/>
@@ -149,7 +149,7 @@ function Experience() {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icons'/>
               <div>
-                <h4>Other Skills</h4>
+                <h4>Sales</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
