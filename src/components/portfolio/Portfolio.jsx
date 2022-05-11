@@ -19,8 +19,8 @@ const data = [
     id: 2,
     image: IMG2,
     title: 'Expense Manager App',
-    gitHub: 'https://github.com/gvfmarques/https://github.com/gvfmarques/ExpenseManager',
-    demo: 'https://github.com/gvfmarques/https://github.com/gvfmarques/ExpenseManager'
+    gitHub: 'https://github.com/gvfmarques/ExpenseManager',
+    demo: 'https://github.com/gvfmarques/ExpenseManager'
   },
   {
     id: 3,
